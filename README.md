@@ -1,7 +1,7 @@
 # AutoDeckAI – Automated PowerPoint Generator with Web + LLM Integration
 
 ## 📌 Overview
-SlideSmith is a Python-based tool that automatically generates professional PowerPoint presentations from a given topic.  
+AutoDeckAI is a Python-based tool that automatically generates professional PowerPoint presentations from a given topic.  
 It combines **Google Custom Search**, **web scraping**, and **Large Language Models (LLMs)** to:
 - Collect relevant content from the web
 - Extract and summarize information
@@ -53,4 +53,14 @@ The generated presentation has 7 slides:
 3. Takeaways – 3–5 concise summary bullets
 4. Sources – Web sources used in the presentation
    
+---
 
+## 📧 Contact  
+
+If you have questions, suggestions, or just want to connect, feel free to reach out!  
+
+- **Name**: Manoj Kumar.CM  
+- **Email**: [manoj.kumar@dsai.iitm.ac.in]  
+- **GitHub Profile**: [Manoj Kumar C M](https://github.com/MANOJKUMAR-CM)  
+
+Happy coding! 🚀
