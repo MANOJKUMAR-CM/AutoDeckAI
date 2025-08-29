@@ -1,0 +1,6 @@
+httpx
+pandas
+requests
+beautifulsoup4
+openai
+python-pptx
